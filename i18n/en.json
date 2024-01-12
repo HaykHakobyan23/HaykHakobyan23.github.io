@@ -1,0 +1,63 @@
+{
+    "home": {
+        "title": "We are Office Portfolio",
+        "home.Description": "A dedicated collective of specialists, project managers and specifiers with shared passions and ideals - furniture consultancy, procurement and ongoing support,",
+        "descriptionYelow": "offering a high-quality resource and service.",
+        "address": "Alek Manukyan St., 15a Building",
+        "address.two": "Armenia, 0070, Yerevan,"
+    },
+    "header": {
+        "finance": "Finance",
+        "housing-Associations": "Housing Associations",
+        "industrial": "Industrial",
+        "legal": "Legal",
+        "marketing": "Marketing",
+        "media": "Media"
+    },
+    "nav": {
+        "menu": "Menu",
+        "home": "Home",
+        "whatWeDo": "What We Do",
+        "project": "Project",
+        "about": "About",
+        "team": "Team",
+        "contact": "Contact"
+    },
+    "whyChooseUs": {
+        "whyChooseUs.title": "Why select Office Portfolio as your furniture supplier?"
+    },
+    "whatwedo": {
+        "home.Whatwedo.description.yelow": "adapt ",
+        "home.Whatwedo.description": "to any project and location",
+        "Whatwedo.title": "What We Do",
+        "whatwedo.description" : "Understanding you, your culture and concept. Creating futureproofed inspiring solutions.",
+        "our.commitment": "Our Commitment",
+        "our.commitment.description": "Office Portfolio are dedicated to providing our clients thehighest levels of customer service. This is maintained with constant monitoring and development of our company and staff accredited to ISO 9001:2015 for our Quality Management System, ISO 14001:2015 for our Environmental Management System, Constructionline and ISO 45001:2018 for our Health & Safety Policy.",
+        "our.commitment.description.two": "We are committed to supplying products from manufacturers that hold a minimum of ISO 9001:2015 and ISO 14001:2015 accreditation. We have an all-inclusive in-house HSQE Management System in place, independently audited, to ensure compliance."
+    },
+    "project": {
+        "home.project.title": "Recent projects",
+        "project.page.title": "Project",
+        "project.page.description": "Browse a selection of our recent office space design and furniture installation projects for your own inspiration across a range of industries.",
+        "more.button": "Read more"
+    },
+    "about" : {
+        "about.page.title": "About Office Portfolio"
+      },
+    "team": {
+        "team.title": "Out team"
+    },
+    "contact": {
+        "contactus": "Contact Us",
+        "firstname": "First name",
+        "lastname": "Last name",
+        "email": "Email",
+        "phoneNumber": "Phone",
+        "messenger": "Your message",
+        "buttonSend": "Send",
+        "description": "Our professional team are here to help, you can contact us on the details below or drop us a message using the form.",
+        "team.contact.title": "Speak to our specialist furniture consultants",
+        "team.contact.description": "Get in touch to find out how we can bring your ideas to life.",
+        "team.contact.button": "Contact Us"
+    }
+}
